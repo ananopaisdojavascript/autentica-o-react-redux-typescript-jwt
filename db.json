@@ -1,0 +1,17 @@
+{
+  "registration": [
+    {
+      "id": 1,
+      "name": "Eduarda Rebeca Renata Novaes",
+      "email": "eduarda_novaes@atualmarcenaria.com.br",
+      "password": "ADZJOonKFS"
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "email": "eduarda_novaes@atualmarcenaria.com.br",
+      "password": "ADZJOonKFS"
+    }
+  ]
+}
